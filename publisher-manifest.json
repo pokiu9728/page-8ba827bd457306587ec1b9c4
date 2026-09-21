@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e9e02fd911cb05d7a0dafb6",
+  "owner": "pokiu9728",
+  "repo": "page-8ba827bd457306587ec1b9c4",
+  "title": "Miaona",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8ba827bd457306587ec1b9c4",
+      "a": "Miaona",
+      "b": "机场官网线路发布页",
+      "entity": "Miaona",
+      "brand": "Miaona",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b643f48ce96a75fa72ad7f024cc2cbd68a1eda7384eb2d38521494a4419e8d95",
+      "content": {
+        "primary_entity": "Miaona",
+        "keyword1": "Miaona",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，Windows 可用 Clash Verge 或 v2rayN，macOS 试 ClashX Meta，iOS 装 Shadowrocket，Android 用 Clash Meta for Android，路由器可选 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先看套餐流量与设备数，再按客户端文档导入订阅，即可用 Miaona 开始加速。",
+          "AI_CLOSING_TITLE": "选好套餐，导入订阅",
+          "AI_DESCRIPTION": "，Miaona 提供基础版每月 100GB 支持 3 台设备、旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线、团队版每月 1000GB 支持 20 台设备，按年付分别只需 ¥150、¥350 与 ¥850。订阅导入各平台客户端后即可使用，旗舰版与团队版可享更好流媒体与路由体验。",
+          "AI_FAQ_ANSWER_1": "旗舰版含 IPLC 专线，对延迟敏感的游戏与实时应用更友好；基础版为普通线路节点池，适合浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_2": "套餐支持 3 至 20 台设备同时在线，若全家使用或有多台终端，建议团队版以获得更大设备数与流量。",
+          "AI_FAQ_ANSWER_3": "可以。年付价格低于逐月合计，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "在客户端手动添加订阅或扫描二维码即可导入，各客户端导入方式略有差异，参照对应客户端文档操作。",
+          "AI_FAQ_ANSWER_5": "日常浏览选基础版足够，看高清视频或游戏加速选旗舰版，团队与多设备场景选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "旗舰版和基础版线路有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "年付是否比月付更划算？",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_5": "不同使用场景该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度选套餐。",
+          "AI_FEATURES_TITLE": "套餐怎么挑",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻度使用，旗舰版 300GB 与团队版 1000GB 满足视频、游戏与团队需求。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档设备数，按手机、电脑、平板与路由器的实际数量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TITLE_3": "按周期选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Miaona 提供三档套餐，覆盖 100GB 至 1000GB 流量与 3 至 20 台设备，适配常见客户端，订阅导入后即可用于流媒体、游戏与办公场景。",
+          "AI_HERO_SUBTITLE": "套餐清晰，订阅简单",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 到 1000GB",
+          "AI_HIGHLIGHT_2": "设备数从 3 台到 20 台可选",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月支持 3 台设备，旗舰版 ¥35/月支持 5 台设备并含 IPLC 专线，团队版 ¥85/月支持 20 台设备，年付分别只需 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、设备数与线路需求，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统，核对套餐支持的设备数与所需客户端。",
+          "AI_STEP_TEXT_3": "按对应客户端文档添加订阅并完成配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "Miaona 套餐与订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kkkhi.cn",
+    "host": "kkkhi.cn"
+  },
+  "file_hashes": {
+    "index.html": "5fdb74ac0f87b11cc5dca8480f36c4424c90aff260eeded8faac22e568814d93",
+    "sitemap.xml": "586572b61c931eb79fa62d56cfa3f75c95bba5edb0ea3f06f0516dca7c6706f2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "88e9a203eab90a17149280292896f39ef3bee9d83f2bdb888a773294866e78e7",
+    "robots.txt": "546f5a71f49784d410b81718d9141f26b8147d78b2c7d445304d5ddaac3ec686",
+    "42885f75b43481fdfd5e743609e2f64c.txt": "fd2acecbc3cff19f6ccdba5cdacb141776988fd605e6510852a7a9a07f9e48fc"
+  },
+  "revision": "8928451a19d325e0b9b54de01bce964a06ccde75e44f1179587d576b980fc5bb"
+}
